@@ -5,5 +5,5 @@ set -e
 # Display commands to stderr.
 set -x
 
-cd git/kokoro-codelab-tiffanypan
+cd github/kokoro-codelab-tiffanypan
 ./build.sh

@@ -6,5 +6,5 @@ set -e
 set -x
 
 
-cd github/kokoro-codelab-tiffanypan
+cd github/hello-world
 ./build.sh

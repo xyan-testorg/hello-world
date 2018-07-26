@@ -10,3 +10,5 @@ if [ "$1" == "release" ]; then
 else
   javac Hello.java
 fi
+
+echo "test"
